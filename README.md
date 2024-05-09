@@ -1,2 +1,5 @@
-# Adafruit_S-35710
-Arduino driver for the S-35710 Low-Power Wake Up Timer
+# Adafruit S-35710 Library
+
+This is an Arduino library for the Adafruit S-35710.
+
+* http://www.adafruit.com/product/5959
